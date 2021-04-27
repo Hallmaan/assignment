@@ -16,7 +16,8 @@
     "nyc": "^15.1.0"
   },
   "scripts": {
-    "test": "nyc --reporter=html mocha"
+    "test": "nyc --reporter=html mocha",
+    "start": "node app.js"
   },
   "author": "",
   "license": "ISC"
