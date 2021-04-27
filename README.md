@@ -1,5 +1,3 @@
-# assignment
-
 # TASK 1
 
 Simple Query
